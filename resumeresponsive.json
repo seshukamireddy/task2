@@ -1,0 +1,32 @@
+{
+    "profile":{
+        "picture":"profileimg.jpg",
+        "name":"Kamireddy seshu kumar",
+        "work":"Student",
+        "mobile":"+918919006364",
+        "gmail":"kamireddyseshu@gmail.com",
+        "place":"Visakhapatnam,Andhra Pradesh"
+    },
+    "details":{
+        "heading1":"Experience:",
+        "h1info":"no forther experience.",
+        "heading2":"Achievements:",
+        "h2info":"Udemy Web Development Bootcamp.",
+        "heading3":"Skills:",
+        "h3sub":"Languages:",
+        "h3subinfo1":"Python",
+        "h3subinfo2":"JavaScript",
+        "h3subinfo3":"CSS3",
+        "h3subinfo4":"HTML5",
+        "h3sub1":"Libraries:",
+        "h3sub1info1":"Jquery",
+        "h3sub1info2":"ReactJS",
+        "h3sub1info3":"NodeJS",
+        "h3sub2":"Database:",
+        "h3sub2info":"MongoDB",
+        "heading4":"Education:",
+        "h4list1":"Pursing B-Tech in Raghu engineering college.",
+        "h4list2":"Diploma completed in prasanthi polytechnic.",
+        "h4list3":"completed school study's in ST Judes EM school."
+    }
+}
